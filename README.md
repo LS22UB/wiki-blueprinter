@@ -1,1 +1,1 @@
-# Planning Tool for 
+# Planning Tool for iGEM Wikis
